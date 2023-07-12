@@ -1,0 +1,38 @@
+#Diseño1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+#Diseño2{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(85, 85, 85);
+    position: absolute;
+}
+#Diseño3{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background-color: rgb(100, 100, 100);
+}
+#Diseño4{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: rgb(160, 160, 160);
+}
+#Diseño5{
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    background-color: rgb(206, 206, 206);
+}
+#Diseño6{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
